@@ -3,7 +3,12 @@
   "displayName": "TiktokMeds",
   "publisher": "oriy",
   "description": "",
-  "version": "0.0.1",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/oriyafe1/TiktokMeds"
+  },
+  "license": "APACHE-2.0",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.76.0"
   },
